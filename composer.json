@@ -1,0 +1,21 @@
+{
+  "name": "vendor_name/dbh-uuid",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "peter",
+      "email": "email@example.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "dbh\\component\\uuids\\": [
+        "src"
+      ]
+    }
+  },
+  "require": {
+  }
+}
