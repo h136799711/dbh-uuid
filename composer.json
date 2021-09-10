@@ -1,6 +1,6 @@
 {
-  "name": "vendor_name/dbh-uuid",
-  "description": "description",
+  "name": "dbh/uuids",
+  "description": "uuid simple creator",
   "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
